@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DiskScope.App/DiskScope.App.csproj" />
+    <Project Path="src/DiskScope.Core/DiskScope.Core.csproj" />
+    <Project Path="src/DiskScope.Infrastructure/DiskScope.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DiskScope.Tests/DiskScope.Tests.csproj" />
+  </Folder>
+</Solution>
